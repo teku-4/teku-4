@@ -4,7 +4,7 @@
 
 <img src="https://media.tenor.com/M4rm7V4kEOsAAAAi/welcome-welcome-to-my-profile.gif"></h1>
 
-<img src="https://media.tenor.com/hHeTMbIhe3YAAAAM/inspiration-cliphy.gif"></p><br>
+<img src="https://media1.tenor.com/m/2fXbn6Xtt0UAAAAd/software-software-development.gif"></p><br>
 <h1 style="background-color:green;text-alignment:center"> ✨✨ welcome to my github account👋🤳🤳</h1><br>
 
 <h1 align="center;"><em style="color:orange">  ✨✨✨✨✨   I'm Leta Kasahun</em></h1><br>
