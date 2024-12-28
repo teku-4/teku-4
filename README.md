@@ -56,8 +56,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teku-4&show_icons=true&locale=en&layout=compact" alt="teku-4" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teku-4&show_icons=true&locale=en" alt="teku-4" /></p>
-<p><img src="https://media.tenor.com/LAsl9TJCNH4AAAAi/whatsapp-chat.gif">
-</p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teku-4&" alt="teku-4" />
 <img src="https://media.tenor.com/FDjw8WTZsWkAAAAj/thank-you-thankyou.gif"></p>
 
