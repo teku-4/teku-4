@@ -26,8 +26,9 @@
   🌹 How to reach me **letakasahun2gmail.com**<br>
 
 ⚡ Fun fact **I think I am enjoy with problem solving**</h4>
+ <p><img src="https://media.tenor.com/8N32AB5HVz0AAAAj/when-we-connect-we-thrive-thrive.gif"></p>
 
-<h3 align="left">Connect with me:</h3>
+<h1 align="left"><strong>Connect with me:</strong></h1>
 <p align="left">
 <a href="https://linkedin.com/in/tekukasahun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tekukasahun" height="30" width="40" /></a>
 <a href="https://instagram.com/leta.kasahun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leta.kasahun" height="30" width="40" /></a>
