@@ -1,14 +1,13 @@
 
 
-<h1 style="background-color:green;text-alignment:center"> ✨✨ welcome to my github account👋🤳🤳</h1>
+<h1>
 
-<p>
-<img src="https://media.tenor.com/M4rm7V4kEOsAAAAi/welcome-welcome-to-my-profile.gif">
+<img src="https://media.tenor.com/M4rm7V4kEOsAAAAi/welcome-welcome-to-my-profile.gif"></h1>
 
-<img src="https://monica.im/share/artifact?id=8CmY9jkKKNagmTqbvSpKPZ">
-<img src="https://media.tenor.com/GiVLG8fDIXQAAAAM/good-day-hi.gif">
-<img src="https://media.tenor.com/hHeTMbIhe3YAAAAM/inspiration-cliphy.gif"></p>
-<h1 align="center;"><em style="color:orange">     I'm Leta Kasahun</em></h1><br>
+<img src="https://media.tenor.com/hHeTMbIhe3YAAAAM/inspiration-cliphy.gif"></p><br>
+<h1 style="background-color:green;text-alignment:center"> ✨✨ welcome to my github account👋🤳🤳</h1><br>
+
+<h1 align="center;"><em style="color:orange">  ✨✨✨✨✨   I'm Leta Kasahun</em></h1><br>
 
 <h3 align="center">A passionate <em style="color:blue">Software Engineering</em> Educator from Ethiopia</h3>
 
