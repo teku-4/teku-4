@@ -8,13 +8,14 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h4> 🌱 I’m currently studying <ins><em><marked>Software Enginering</marked></em></ins>**<br>
+<h4>
+  🌱 I’m currently studying <ins><em><marked>Software Enginering</marked></em></ins>**<br>
   
   ✨ I am intersted in problem solving and innovating new ideas<br>
  
- 💬 Ask me about **python,javascript,html and css**<br>
+  👍Ask me about **python,javascript,html and css**<br>
 
-📫 How to reach me **letakasahun2gmail.com**<br>
+  🌹 How to reach me **letakasahun2gmail.com**<br>
 
 ⚡ Fun fact **I think I am enjoy with problem solving**</h4>
 
