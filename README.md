@@ -1,12 +1,12 @@
 
 
-<h1 style="background-color:green;text-alignment:center"> ✨✨Hi there welcome to my github account👋🤳🤳</h1>
+<h1 style="background-color:green;text-alignment:center"> ✨✨ welcome to my github account👋🤳🤳</h1>
 <h1 align="center;"><em style="color:orange">     I'm Leta Kasahun</em></h1>
 <p>
 <img src="https://i.imgur.com/yourimageid.png">
 
 <img src="https://monica.im/share/artifact?id=8CmY9jkKKNagmTqbvSpKPZ">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGl0ajMyeHhpbHVmcGR0YnNpbzRtN2I5d2djemlsNW1td2ZqaXdjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4fY72hUwWM5pAjvQAc/giphy.webp"></p>
+<img src="https://media.tenor.com/GiVLG8fDIXQAAAAM/good-day-hi.gif"></p>
 <h3 align="center">A passionate <em style="color:blue">Software Engineering</em> Educator from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teku-4&label=Profile%20views&color=0e75b6&style=flat" alt="teku-4" /> </p>
