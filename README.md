@@ -6,7 +6,8 @@
 <img src="https://i.imgur.com/yourimageid.png">
 
 <img src="https://monica.im/share/artifact?id=8CmY9jkKKNagmTqbvSpKPZ">
-<img src="https://media.tenor.com/GiVLG8fDIXQAAAAM/good-day-hi.gif"></p>
+<img src="https://media.tenor.com/GiVLG8fDIXQAAAAM/good-day-hi.gif">
+<img src="https://media.tenor.com/hHeTMbIhe3YAAAAM/inspiration-cliphy.gif"></p>
 <h1 align="center;"><em style="color:orange">     I'm Leta Kasahun</em></h1><br>
 
 <h3 align="center">A passionate <em style="color:blue">Software Engineering</em> Educator from Ethiopia</h3>
