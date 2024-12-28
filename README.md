@@ -9,7 +9,7 @@
 
 <h1 align="center;"><em style="color:orange">  ✨✨✨✨✨   I'm Leta Kasahun</em></h1><br>
 
-<h3 align="center">A passionate <em style="color:blue">Software Engineering</em> Educator from Ethiopia</h3>
+<h2 align="center">A passionate <em style="color:blue"> I am Software Engineering Educator from Ethiopia</em></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teku-4&label=Profile%20views&color=0e75b6&style=flat" alt="teku-4" /> </p>
 
