@@ -1,58 +1,5 @@
 <h1 style="background-color:green;text-alignment:center"> ✨✨Hi there welcome to my github account👋🤳🤳</h1>
 <h1 align="center;"><em style="color:orange">     I'm Leta Kasahun</em></h1>
-<p><!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Profile</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 20px;
-        }
-        .profile {
-            max-width: 600px;
-            margin: auto;
-            background: white;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h1 {
-            text-align: center;
-            color: #333;
-        }
-        .tech-image {
-            display: block;
-            margin: 10px auto;
-            width: 100%;
-            max-width: 200px;
-        }
-    </style>
-</head>
-<body>
-
-<div class="profile">
-    
-    <p>Hello! I'm a tech enthusiast passionate about the latest technologies. Here are some animated representations of technologies I love:</p>
-    
-    <a href="https://example.com/animated-image1" target="_blank">
-        <img src="data:image/svg+xml;utf8,<svg width='200' height='200' viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'><circle cx='100' cy='100' r='40' fill='blue'><animate attributeName='r' from='40' to='60' dur='0.5s' begin='0s' repeatCount='indefinite' /><animate attributeName='fill' from='blue' to='cyan' dur='0.5s' begin='0s' repeatCount='indefinite' /></circle><rect x='90' y='90' width='20' height='20' fill='green'><animate attributeName='x' from='90' to='130' dur='1s' begin='0s' repeatCount='indefinite' /><animate attributeName='y' from='90' to='130' dur='1s' begin='0s' repeatCount='indefinite' /></rect><text x='50%' y='50%' text-anchor='middle' fill='white' font-size='20' dy='.3em'>Tech</text></svg>" alt="Animated Technology 1" class="tech-image">
-    </a>
-    
-    <a href="https://example.com/animated-image2" target="_blank">
-        <img src="data:image/svg+xml;utf8,<svg width='200' height='200' viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'><circle cx='100' cy='100' r='40' fill='purple'><animate attributeName='r' from='40' to='60' dur='0.5s' begin='0s' repeatCount='indefinite' /><animate attributeName='fill' from='purple' to='magenta' dur='0.5s' begin='0s' repeatCount='indefinite' /></circle><rect x='90' y='90' width='20' height='20' fill='orange'><animate attributeName='x' from='90' to='130' dur='1s' begin='0s' repeatCount='indefinite' /><animate attributeName='y' from='90' to='130' dur='1s' begin='0s' repeatCount='indefinite' /></rect><text x='50%' y='50%' text-anchor='middle' fill='white' font-size='20' dy='.3em'>Tech</text></svg>" alt="Animated Technology 2" class="tech-image">
-    </a>
-    
-    <p>Feel free to connect with me on GitHub!</p>
-</div>
-
-</body>
-</html>
-</p>
 <p><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGl0ajMyeHhpbHVmcGR0YnNpbzRtN2I5d2djemlsNW1td2ZqaXdjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4fY72hUwWM5pAjvQAc/giphy.webp"></p>
 <h3 align="center">A passionate <em style="color:blue">Software Engineering</em> Educator from Ethiopia</h3>
 
