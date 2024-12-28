@@ -5,11 +5,11 @@
 <img src="https://media.tenor.com/M4rm7V4kEOsAAAAi/welcome-welcome-to-my-profile.gif"></h1>
 
 <img src="https://media1.tenor.com/m/2fXbn6Xtt0UAAAAd/software-software-development.gif"></p><br>
-<h1 style="background-color:green;text-alignment:center"> ✨✨ welcome to my github account👋🤳🤳</h1><br>
+<h1 style="background-color:green;text-alignment:center"> ✨✨ Hellow evry body👏👋🤳🤳</h1><br>
 
 <h1 align="center;"><em style="color:orange">  ✨✨✨✨✨   I'm Leta Kasahun</em></h1><br>
 
-<h2 align="center">A passionate <em style="color:blue"> I am Software Engineering Educator from Ethiopia</em></h2>
+<h2 align="center"> <em>I am  a passionate Software Engineering Educator from Ethiopia</em></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teku-4&label=Profile%20views&color=0e75b6&style=flat" alt="teku-4" /> </p>
 
