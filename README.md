@@ -1,12 +1,14 @@
 
 
 <h1 style="background-color:green;text-alignment:center"> ✨✨ welcome to my github account👋🤳🤳</h1>
-<h1 align="center;"><em style="color:orange">     I'm Leta Kasahun</em></h1>
+
 <p>
 <img src="https://i.imgur.com/yourimageid.png">
 
 <img src="https://monica.im/share/artifact?id=8CmY9jkKKNagmTqbvSpKPZ">
 <img src="https://media.tenor.com/GiVLG8fDIXQAAAAM/good-day-hi.gif"></p>
+<h1 align="center;"><em style="color:orange">     I'm Leta Kasahun</em></h1><br>
+
 <h3 align="center">A passionate <em style="color:blue">Software Engineering</em> Educator from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teku-4&label=Profile%20views&color=0e75b6&style=flat" alt="teku-4" /> </p>
@@ -55,7 +57,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teku-4&show_icons=true&locale=en" alt="teku-4" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teku-4&" alt="teku-4" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teku-4&" alt="teku-4" />
+<img src="https://media.tenor.com/FDjw8WTZsWkAAAAj/thank-you-thankyou.gif"></p>
 
 
 
