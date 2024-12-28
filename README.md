@@ -3,7 +3,7 @@
 <h1 style="background-color:green;text-alignment:center"> ✨✨ welcome to my github account👋🤳🤳</h1>
 
 <p>
-<img src="https://i.imgur.com/yourimageid.png">
+<img src="https://media.tenor.com/M4rm7V4kEOsAAAAi/welcome-welcome-to-my-profile.gif">
 
 <img src="https://monica.im/share/artifact?id=8CmY9jkKKNagmTqbvSpKPZ">
 <img src="https://media.tenor.com/GiVLG8fDIXQAAAAM/good-day-hi.gif">
