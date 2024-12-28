@@ -1,5 +1,5 @@
- ✨✨Hi there welcome to my github account👋🤳🤳
-<h1 align="center;"><em style="color:aqua">I'm Leta Kasahun</em></h1>
+<h1 style="background-color:green;text-alignment:center"> ✨✨Hi there welcome to my github account👋🤳🤳</h1>
+<h1 align="center;"><em style="color:orange">I'm Leta Kasahun</em></h1>
 <h3 align="center">A passionate Educator from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teku-4&label=Profile%20views&color=0e75b6&style=flat" alt="teku-4" /> </p>
