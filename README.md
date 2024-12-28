@@ -1,6 +1,6 @@
 <h1 style="background-color:green;text-alignment:center"> ✨✨Hi there welcome to my github account👋🤳🤳</h1>
 <h1 align="center;"><em style="color:orange">I'm Leta Kasahun</em></h1>
-<h3 align="center">A passionate Educator from Ethiopia</h3>
+<h3 align="center">A passionate <em style="color:blue">Software Engineering</em> Educator from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teku-4&label=Profile%20views&color=0e75b6&style=flat" alt="teku-4" /> </p>
 
@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React,Django and etc**
+<h4> 🌱 I’m currently studying <ins><em><marked>Software Enginering</marked></em></ins>**<br>
+  ✨ I am intersted in problem solving and innovating new ideas<br>
+- 💬 Ask me about **python,javascript,html and css**<br>
 
-- 💬 Ask me about **python,javascript,html and css**
+- 📫 How to reach me **letakasahun2gmail.com**<br>
 
-- 📫 How to reach me **letakasahun2gmail.com**
-
-- ⚡ Fun fact **I think I am enjoy with problem solving**
+- ⚡ Fun fact **I think I am enjoy with problem solving**</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
