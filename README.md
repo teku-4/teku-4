@@ -9,8 +9,9 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h4>
-  🌱 I’m currently studying <ins><em><marked>Software Enginering</marked></em></ins>**<br>
+  🌱 I’m currently studying<em><marked>Software Enginering</marked></em>**<br>
   
+
   ✨ I am intersted in problem solving and innovating new ideas<br>
  
   👍Ask me about **python,javascript,html and css**<br>
