@@ -38,6 +38,18 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teku-4&show_icons=true&locale=en" alt="teku-4" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teku-4&" alt="teku-4" /></p>
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="40" fill="blue">
+    <animate attributeName="r" from="40" to="60" dur="0.5s" begin="0s" repeatCount="indefinite" />
+    <animate attributeName="fill" from="blue" to="cyan" dur="0.5s" begin="0s" repeatCount="indefinite" />
+  </circle>
+  <rect x="90" y="90" width="20" height="20" fill="green">
+    <animate attributeName="x" from="90" to="130" dur="1s" begin="0s" repeatCount="indefinite" />
+    <animate attributeName="y" from="90" to="130" dur="1s" begin="0s" repeatCount="indefinite" />
+  </rect>
+  <text x="50%" y="50%" text-anchor="middle" fill="white" font-size="20" dy=".3em">Tech</text>
+</svg>
+
 
 
 <!--
