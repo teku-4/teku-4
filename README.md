@@ -1,27 +1,5 @@
-<h6>
-    <h1>My GitHub Profile</h1>
-    <div>
-        <svg width="400" height="300" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
-          <text x="50%" y="30" text-anchor="middle" style="font-size: 24px; font-weight: bold; animation: colorChange 3s infinite; animation-delay: 0s;" class="hello">Hello everybody</text>
-          
-          <text x="50%" y="70" text-anchor="middle" style="font-size: 24px; font-weight: bold; animation: colorChange 3s infinite; animation-delay: 0.5s;" class="welcome">Welcome to my GitHub account</text>
-          
-          <image href="https://example.com/latest-robot-image.svg" x="150" y="100" height="50px" width="50px" />
-          
-          <text x="50%" y="200" text-anchor="middle" style="font-size: 24px; font-weight: bold; animation: colorChange 3s infinite; animation-delay: 1s;" class="i-am-leta">I am Leta</text>
-          
-          <style>
-            @keyframes colorChange {
-              0% { fill: red; }
-              25% { fill: blue; }
-              50% { fill: green; }
-              75% { fill: purple; }
-              100% { fill: orange; }
-            }
-          </style>
-        </svg>
-    </div>
-</h6>
+
+
 <h1 style="background-color:green;text-alignment:center"> ✨✨Hi there welcome to my github account👋🤳🤳</h1>
 <h1 align="center;"><em style="color:orange">     I'm Leta Kasahun</em></h1>
 <p>
