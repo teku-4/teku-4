@@ -1,5 +1,5 @@
 <h1 style="background-color:green;text-alignment:center"> ✨✨Hi there welcome to my github account👋🤳🤳</h1>
-<h1 align="center;"><em style="color:orange">I'm Leta Kasahun</em></h1>
+<h1 align="center;"><em style="color:orange">     I'm Leta Kasahun</em></h1>
 <p><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGl0ajMyeHhpbHVmcGR0YnNpbzRtN2I5d2djemlsNW1td2ZqaXdjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4fY72hUwWM5pAjvQAc/giphy.webp"></p>
 <h3 align="center">A passionate <em style="color:blue">Software Engineering</em> Educator from Ethiopia</h3>
 
