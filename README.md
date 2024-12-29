@@ -68,12 +68,12 @@
 
 <span><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=teku-4&" alt="teku-4" /></span>
   
-<p><img src="https://media.tenor.com/FDjw8WTZsWkAAAAj/thank-you-thankyou.gif"></p>
+<!--<p><img src="https://media.tenor.com/FDjw8WTZsWkAAAAj/thank-you-thankyou.gif"></p>
 
 
 
 
-<!--
+
 **teku-4/teku-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
