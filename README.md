@@ -60,17 +60,17 @@
 
 
 
-<h3 align="left">Support:</h3>
+<!--<h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/teku-4"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="teku-4" /></a><a href="https://ko-fi.com/teku-4"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="teku-4" /></a></p><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teku-4&show_icons=true&locale=en&layout=compact" alt="teku-4" /></p>-->
 
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teku-4&show_icons=true&locale=en&layout=compact" alt="teku-4" /></p>-->
+&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=teku-4&show_icons=true&locale=en" alt="teku-4" >
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teku-4&show_icons=true&locale=en" alt="teku-4" /></p>
+<span><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=teku-4&" alt="teku-4" /></span>
+  <div>
+<p><img src="https://media.tenor.com/FDjw8WTZsWkAAAAj/thank-you-thankyou.gif"></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teku-4&" alt="teku-4" />
-<img src="https://media.tenor.com/FDjw8WTZsWkAAAAj/thank-you-thankyou.gif"></p>
-
-
+</div>
 
 
 <!--
