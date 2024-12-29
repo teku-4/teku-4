@@ -5,7 +5,7 @@
 <img src="https://media.tenor.com/M4rm7V4kEOsAAAAi/welcome-welcome-to-my-profile.gif"></h1>
 
 <img src="https://media1.tenor.com/m/2fXbn6Xtt0UAAAAd/software-software-development.gif"></p><br>
-<h1 style="background-color:green;text-alignment:center"> ✨✨ Hellow every body👏👏🤳🤳</h1><br>
+<h1 style="background-color:green;text-alignment:center"> ✨✨ Hi there 👏👏🤳🤳</h1><br>
 
 <h1 align="center;"><em style="color:orange">  ✨✨✨✨✨   I'm Leta Kasahun</em></h1><br>
 
