@@ -27,7 +27,7 @@
 
   🌹 How to reach me **letakasahun2gmail.com**<br>
 
-⚡ Fun fact **I think I am enjoy with problem solving**</h4>
+⚡ Fun fact **I think I am 😁😁**</h4>
  <p><img src="https://media.tenor.com/8N32AB5HVz0AAAAj/when-we-connect-we-thrive-thrive.gif"></p>
 
 <h1 align="left"><strong>Connect with me:</strong></h1>
@@ -60,9 +60,9 @@
 <!--<h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/teku-4"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="teku-4" /></a><a href="https://ko-fi.com/teku-4"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="teku-4" /></a></p><br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teku-4&show_icons=true&locale=en&layout=compact" alt="teku-4" /></p>-->
-
+<div>
 &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=teku-4&show_icons=true&locale=en" alt="teku-4" >
-
+</div>
 <span><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=teku-4&" alt="teku-4" /></span>
   
 <!--<p><img src="https://media.tenor.com/FDjw8WTZsWkAAAAj/thank-you-thankyou.gif"></p>
