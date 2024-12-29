@@ -67,10 +67,10 @@
 &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=teku-4&show_icons=true&locale=en" alt="teku-4" >
 
 <span><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=teku-4&" alt="teku-4" /></span>
-  <div>
+  
 <p><img src="https://media.tenor.com/FDjw8WTZsWkAAAAj/thank-you-thankyou.gif"></p>
 
-</div>
+
 
 
 <!--
