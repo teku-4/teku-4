@@ -1,10 +1,10 @@
 
 
-<h1>
+<h1  style="border: 10px dashed;border-radius:10px">
 
 <img src="https://media.tenor.com/M4rm7V4kEOsAAAAi/welcome-welcome-to-my-profile.gif"></h1>
 
-<img src="https://media1.tenor.com/m/2fXbn6Xtt0UAAAAd/software-software-development.gif"></p><br>
+<p style="border-raduis:10px;border-syle:10px dotted"><img src="https://media1.tenor.com/m/2fXbn6Xtt0UAAAAd/software-software-development.gif"></p><br>
 <h1 style="background-color:green;text-alignment:center"> ✨✨ Hi there 👏👏🤳🤳</h1><br>
 
 <h1 align="center;"><em style="color:orange">  ✨✨✨✨✨   I'm Leta Kasahun</em></h1><br>
